@@ -2,14 +2,14 @@
   "name": "Torto",
   "symbol": "TT",
   "description": "Solid Token",
-  "image": "https://raw.githubusercontent.com/stylo019/Torto/refs/heads/main/torto.png",
+  "image": "https://raw.githubusercontent.com/stylo019/Torto/refs/heads/main/Torto.png",
      "uri": "https://raw.githubusercontent.com/stylo019/Torto/refs/heads/main/Torto.png",
 
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/stylo019/Torto/refs/heads/main/torto.png",
+        "uri": "https://raw.githubusercontent.com/stylo019/Torto/refs/heads/main/Torto.png",
         "type": "image/png"
       }
     ]
